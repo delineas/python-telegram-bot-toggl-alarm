@@ -17,6 +17,7 @@ Más información en https://fenomenomutante.com/8
         - [Variables de entorno](#variables-de-entorno)
         - [Ejecución](#ejecución)
     - [Modo de uso](#modo-de-uso)
+    - [Librerías utilizadas](#librerías-utilizadas)
     - [TODO](#todo)
 
 <!-- /TOC -->
@@ -75,6 +76,11 @@ Tenemos estos comandos disponibles
 - /help Muestra la ayuda
 
 El bot se conectará a toggl y devolverá un emoticono de 💩 si no se han imputado las horas en el día anterior y un emoticono 💃🏻 si se ha ejecutado correctamente.
+
+## Librerías utilizadas
+
+- https://python-telegram-bot.org/
+- https://github.com/theskumar/python-dotenv
 
 ## TODO
 - [x] Tarea ejecutada diariamente
